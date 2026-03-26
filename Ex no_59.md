@@ -19,8 +19,8 @@ To write a C functions to perform-enqueue, dequeue, peek, display in Queue using
 /*
 functions to perform-enqueue, dequeue, peek, display in Queue using Linked List.(use character data in Queue).
 
-Developed by: HARSHITHA.Y
-RegisterNumber: 212222060081
+Developed by: KEERTHANA P
+RegisterNumber: 212222060119
 */
 #include <stdio.h>
 #include <stdlib.h>
