@@ -20,8 +20,8 @@ To write a C function to display stack elements using Linked List.
 /*
 C function to display stack elements using Linked List.(store integer data in stack) .
 
-Developed by: HARSHITHA.Y
-RegisterNumber:  212222060081
+Developed by: KEERTHANA P
+RegisterNumber:  212222060119
 */
 #include <stdio.h>
 #include <stdlib.h>
